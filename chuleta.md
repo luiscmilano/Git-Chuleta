@@ -92,7 +92,7 @@ This command creates a new branch as a clone of the actual branch
     git merge origin_branch_name
 ````
 
-### Update actual branch with the contend of remote ofigin branch
+### Update actual branch with the contend of remote origin branch
 
 ````
     git pull
